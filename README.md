@@ -38,7 +38,7 @@ Ensure you have **Python 3.7 or later** installed on your system.
 ### 🔹 Installation Steps
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_GITHUB/scalable-async-web-scraper.git
+git clone https://github.com/Zakeertech3/System_Design_Scalability.git
 cd scalable-async-web-scraper
 
 # Install required dependencies
