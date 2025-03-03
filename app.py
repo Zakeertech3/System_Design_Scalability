@@ -4,7 +4,7 @@ import time
 import streamlit as st
 import pandas as pd
 
-# ----------------------------------------------------------------
+# ------------------------------------------------- ---------------
 # Asynchronous Fetch Function
 # ----------------------------------------------------------------
 async def fetch(url: str, session: aiohttp.ClientSession, semaphore: asyncio.Semaphore):
