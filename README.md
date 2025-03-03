@@ -79,12 +79,6 @@ This project is **open-source** under the MIT License. Feel free to modify, enha
 🌟 **If you found this useful, give it a star on GitHub!** ⭐
 
 ---
-## 📬 Contact
-
-Have questions or suggestions? Reach out!
-- 📧 Email: zakeer1408@gmail.com  
-- 🐦 Twitter: (https://x.com/zakeer1410)  
-- 🏢 LinkedIn: (https://www.linkedin.com/in/mohammed-zakeer/)
 
 🔥 Happy Scraping! 🚀
 
