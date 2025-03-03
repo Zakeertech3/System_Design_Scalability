@@ -2,6 +2,8 @@
 
 ### 📌 Live Deployment: [Click Here](https://systemdesignscalability-pmtlfbozsbvqypj7ft89mc.streamlit.app/)
 
+![Image](https://github.com/user-attachments/assets/c9f7c116-495e-4463-8f4b-671eab31fe26)
+
 ## 🌍 Explore the Web, Asynchronously!
 
 Ever felt like web scraping is painfully slow, waiting for one site to respond before moving on to the next? Imagine if you could send out multiple scouts at once, each collecting information independently—speeding up the process exponentially. That’s exactly what this **Scalable Async Web Scraper** does!
